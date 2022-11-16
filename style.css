@@ -19,9 +19,7 @@
 }
 
 body {
-  display: flex;
-   justify-content: center;
-   align-items: center;
+
    font-family: 'Codystar';
    background: black;
   overflow: hidden;
@@ -58,7 +56,7 @@ h1 { font-size: 5rem }
 h2 { font-size: 2rem }
 
 img {
-  width: 30vw;
+  width: 31vw;
   height: 98%;
   background: #f0f0f0;
 }
@@ -66,8 +64,7 @@ img {
 ul {
   padding-left: 1rem;
   list-style: none;
-  height: auto;
-  width: auto;
+ 
 }
 
 li {
@@ -79,8 +76,8 @@ li {
   /* padding: auto; */
 }
 
-header {height: 20vh}
-footer {height: 20vh}
+header {height: 100vh}
+footer {height: 60vh}
 
 :-webkit-any-link { color: #4e9815; }
 
