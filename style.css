@@ -27,7 +27,7 @@ body {
 }
 
 .neons {
-  /* margin-top: 10rem; */
+  margin-top: -5rem; 
   text-align: top;
 }
 
@@ -63,7 +63,7 @@ img {
 }
 
 ul {
-  padding-left: 0rem;
+  padding-left: 0.5rem;
   list-style: none;
  
 }
@@ -78,7 +78,7 @@ li {
   /* padding: auto; */
 }
 
-header {height: 70vh}
+header {height: 40vh}
 footer {height: 30vh}
 
 :-webkit-any-link { color: #eaece8; }
@@ -99,8 +99,9 @@ footer {height: 30vh}
 
 .wrapper {
   display: flex;
+ 
 }
-.demo-gallery{padding-left: 48rem; padding-right: 46rem;}
+.demo-gallery{padding-left: 48rem; padding-right: 46rem; }
 .demo-gallery:not(.last) {
   padding-bottom: 1rem;
 }
