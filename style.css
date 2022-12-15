@@ -63,7 +63,7 @@ img {
 }
 
 ul {
-  padding-left: 0.5rem;
+  padding-left: 0rem;
   list-style: none;
  
 }
@@ -101,7 +101,7 @@ footer {height: 30vh}
   display: flex;
  
 }
-.demo-gallery{padding-left: 48rem; padding-right: 46rem; }
+.demo-gallery{padding-left: 0rem; padding-right: 0rem; }
 .demo-gallery:not(.last) {
   padding-bottom: 1rem;
 }
