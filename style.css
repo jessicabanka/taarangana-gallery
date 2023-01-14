@@ -27,7 +27,7 @@ body {
 }
 
 .neons {
-  margin-top: -5rem; 
+  margin-top: -5rem;
   text-align: top;
 }
 
@@ -45,7 +45,7 @@ body {
      color: #fff;
    text-shadow: 0 0 10px #00fff2, 0 0 20px #00fff2, 0 0 30px #00fff2, 0 0 40px #00fff2, 0 0 50px #00fff2, 0 0 60px #00fff2, 0 0 70px #00fff2, 0 0 90px #00fff2;
  }
- 
+
  to {
     color: gray;
    text-shadow: 0 0 20px #00fff2, 0 0 30px #00fff2, 0 0 40px #00fff2, 0 0 50px #00fff2, 0 0 60px #00fff2, 0 0 70px #00fff2, 0 0 80px #00fff2, 0 1 90px #00fff2;
@@ -65,7 +65,7 @@ img {
 ul {
   padding-left: 0rem;
   list-style: none;
- 
+
 }
 
 li {
@@ -99,7 +99,7 @@ footer {height: 30vh}
 
 .wrapper {
   display: flex;
- 
+
 }
 .demo-gallery{padding-left: 0rem; padding-right: 0rem; }
 .demo-gallery:not(.last) {
