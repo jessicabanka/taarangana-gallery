@@ -146,9 +146,10 @@ footer {height: 30vh}
 }
 
 nav{
-	position: absolute;
+	position: fixed;
 	width: 100%;
-	height: 0px;
+	height: 0%;
+	object-fit: cover;
 	background: rgba(0, 0, 0, 0.863);
 	backdrop-filter: blur(8px);
 	display: flex;
@@ -235,4 +236,15 @@ nav .close:hover div::after{
   h1{
     font-size: 25px;
   }
+}
+
+
+video {  
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
 }
