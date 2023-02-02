@@ -25,7 +25,7 @@ body {
 
 .title {
 	padding-top: 1rem;
-	color: rgba(91, 74, 47, 0.72)
+	color: rgba(91, 74, 47, 0.72);
 	font-size: 5rem;
 	text-align: center;
 	text-shadow: #fff;
@@ -119,9 +119,3 @@ footer {height: 0vh}
   font-weight: 500;
 }
 
-
-@media (min-width: 360px) {
-	.neons h1 {
-		font-size: 5rem;
-	}
-}
