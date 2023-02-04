@@ -14,7 +14,7 @@
 }
 
 .bars{
-	width:50px;
+	width:45px;
 	height: 5px;
     background: #ffffff;
     animation:shine_border 5s ease-in-out alternate infinite;
@@ -24,7 +24,7 @@
 .bars::after{
 	content: '';
 	position: absolute;
-	width: 50px;
+	width: 45px;
 	height: 5px;
     background: #ffffff;
     animation:shine_border 2s ease-in-out alternate infinite;
