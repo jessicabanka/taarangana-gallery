@@ -37,7 +37,6 @@ body {
   }
 
 .neons h1 {
-	font-size: 5rem;
 	text-align: center;
 	-webkit-animation: glow 2s ease-in-out infinite alternate;
 	-moz-animation: glow 2s ease-in-out infinite alternate;
@@ -118,4 +117,12 @@ footer {height: 0vh}
   line-height: 1;
   font-weight: 500;
 }
-
+.mobile-view {
+	font-size: 5rem;
+  }
+  
+  @media only screen and (max-width: 420px) {
+	.mobile-view {
+	  font-size: 3.5rem;
+	}
+  }
